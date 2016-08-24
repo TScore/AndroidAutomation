@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [N-age Suite]">
+  <test name="OneToOneConversationInvite(failed)">
+    <classes>
+      <class name="com.ngage.automationscript.registration.NgageRegistration">
+        <methods>
+          <include name="closeApplication"/>
+          <include name="verifayRegisationDataTest"/>
+          <include name="openApplication"/>
+          <include name="storeLocater"/>
+        </methods>
+      </class> <!-- com.ngage.automationscript.registration.NgageRegistration -->
+      <class name="com.ngage.automationscript.onetoone.OneToOneConversation">
+        <methods>
+          <include name="openApplication"/>
+          <include name="closeApplication"/>
+          <include name="OneToOneConversationInviteTest"/>
+          <include name="varification"/>
+          <include name="storeLocater"/>
+        </methods>
+      </class> <!-- com.ngage.automationscript.onetoone.OneToOneConversation -->
+    </classes>
+  </test> <!-- OneToOneConversationInvite(failed) -->
+</suite> <!-- Failed suite [N-age Suite] -->

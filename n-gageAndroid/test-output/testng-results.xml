@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="511442" started-at="2016-08-24T14:08:42Z" finished-at="2016-08-24T14:17:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="511442" started-at="2016-08-24T14:08:42Z" finished-at="2016-08-24T14:17:13Z">
+      <class name="com.ngage.automationscript.onetoone.OneToOneConversation">
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:com.ngage.automationscript.onetoone.OneToOneConversation@76707e36]" name="openApplication" is-config="true" duration-ms="18168" started-at="2016-08-24T19:38:42Z" finished-at="2016-08-24T19:39:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="storeLocater()[pri:0, instance:com.ngage.automationscript.onetoone.OneToOneConversation@76707e36]" name="storeLocater" is-config="true" duration-ms="44" started-at="2016-08-24T19:39:00Z" finished-at="2016-08-24T19:39:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- storeLocater -->
+        <test-method status="PASS" signature="oneToOneConversationTest()[pri:0, instance:com.ngage.automationscript.onetoone.OneToOneConversation@76707e36]" name="oneToOneConversationTest" duration-ms="493207" started-at="2016-08-24T19:39:00Z" finished-at="2016-08-24T19:47:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oneToOneConversationTest -->
+        <test-method status="PASS" signature="varification()[pri:0, instance:com.ngage.automationscript.onetoone.OneToOneConversation@76707e36]" name="varification" is-config="true" duration-ms="1" started-at="2016-08-24T19:47:13Z" finished-at="2016-08-24T19:47:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varification -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:com.ngage.automationscript.onetoone.OneToOneConversation@76707e36]" name="closeApplication" is-config="true" duration-ms="0" started-at="2016-08-24T19:47:13Z" finished-at="2016-08-24T19:47:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.ngage.automationscript.onetoone.OneToOneConversation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

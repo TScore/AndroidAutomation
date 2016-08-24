@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="N-age Suite">
+	<test name="Registration">
+		<classes>
+			<class name="com.ngage.automationscript.registration.NgageRegistration" />
+		</classes>
+	</test> <!-- Test -->
+	<!-- <test name="RegistrationVerifywindow"> <classes> <class name="com.ngage.automationscript.registration.RegistrationVerifywindow"/> 
+		</classes> </test> Test -->
+	<test name="OneToOneConversationInvite">
+		<classes>
+			<class
+				name="com.ngage.automationscript.onetoone.OneToOneConversation" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

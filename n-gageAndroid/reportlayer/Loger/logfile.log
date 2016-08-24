@@ -1,0 +1,589 @@
+2016-08-24 18:38:35,271 INFO  [OneToOneConversation] --click chat button--! 
+2016-08-24 18:38:35,673 INFO  [OneToOneConversation] oneToOneConversationDataList:1 
+2016-08-24 18:38:35,673 INFO  [OneToOneConversation] get data from excel sheet and verifay! 
+2016-08-24 18:38:35,677 INFO  [NgageUtili] one to locater load 
+2016-08-24 18:38:38,690 INFO  [NgageUtili] load locater of start new conversation! 
+2016-08-24 18:38:38,691 INFO  [NgageUtili] searchingName 8181515131 
+2016-08-24 18:38:47,242 INFO  [NgageUtili] complete send to number to search panel 
+2016-08-24 18:38:49,427 INFO  [NgageUtili] store list of user which is found from contact  list 
+2016-08-24 18:38:51,103 INFO  [NgageUtili] click log click buttion and log click pop up is displaying! 
+2016-08-24 18:38:51,741 INFO  [NgageUtili] click more buttion of log click pop up window! 
+2016-08-24 18:38:55,071 INFO  [NgageUtili] click view profile image buttion! 
+2016-08-24 18:38:55,113 INFO  [NgageUtili] scrool to Personal Details text manu 
+2016-08-24 18:38:57,307 INFO  [NgageUtili] actualNumber:918181515131 
+2016-08-24 18:39:00,491 INFO  [NgageUtili] click back buttion of profile image! 
+2016-08-24 18:39:02,800 INFO  [NgageUtili] click actual contact user! 
+2016-08-24 18:39:14,474 INFO  [NgageUtili] complete text message to text edit option! 
+2016-08-24 18:39:16,640 INFO  [NgageUtili] Complete to click sending buttion 
+2016-08-24 18:39:16,640 INFO  [OneToOneConversation] message sending complete 
+2016-08-24 18:39:28,731 INFO  [NgageUtili] click sticker buttion! 
+2016-08-24 18:39:33,161 INFO  [NgageUtili] wait sticker loading! 
+2016-08-24 18:39:35,011 INFO  [NgageUtili] footer sticker selection complete! 
+2016-08-24 18:39:37,592 INFO  [NgageUtili] allrady sticker download   complete! 
+2016-08-24 18:39:37,592 INFO  [NgageUtili] --wait sticker download ,wait some time after! 
+2016-08-24 18:39:40,950 INFO  [NgageUtili] click sticker from sticker gallery! 
+2016-08-24 18:39:41,998 INFO  [NgageUtili] click sending sticker buttion! 
+2016-08-24 18:39:41,998 INFO  [OneToOneConversation] //---------------------sending sticker to user--------------------- 
+2016-08-24 18:39:42,061 INFO  [NgageUtili] one to one locater loading 
+2016-08-24 18:39:47,342 INFO  [NgageUtili] Doodle buttion click! 
+2016-08-24 18:39:50,961 INFO  [NgageUtili] doodle Decorate is clicking! 
+2016-08-24 18:39:52,709 INFO  [NgageUtili] click doodle color decorate buttion! 
+2016-08-24 18:39:54,495 INFO  [NgageUtili] sending doodle image! 
+2016-08-24 18:39:54,515 INFO  [OneToOneConversation] //-----------------------sending doodle image-------------------- 
+2016-08-24 18:39:56,643 INFO  [NgageUtili] click AttachmentButtion buttion ! 
+2016-08-24 18:39:59,207 INFO  [NgageUtili] lifie image buttion complete to click 
+2016-08-24 18:40:03,407 INFO  [NgageUtili] click capture image buttion 
+2016-08-24 18:40:07,678 INFO  [NgageUtili] click send buttion of life! 
+2016-08-24 18:40:07,679 INFO  [OneToOneConversation] lifie module is testing complete! 
+2016-08-24 18:40:10,229 INFO  [NgageUtili] click AttachmentButtion buttion ! 
+2016-08-24 18:40:15,258 INFO  [NgageUtili] click klipy buttion complete! 
+2016-08-24 18:40:20,668 INFO  [NgageUtili] selct klipy from footer panel-- 
+2016-08-24 18:40:24,662 INFO  [NgageUtili] allrady sticker download   complete! 
+2016-08-24 18:41:25,264 WARN  [OneToOneConversation] org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 60.60 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'Tapanas-Mac-mini.local', ip: '172.16.2.14', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.5', java.version: '1.8.0_101'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{app=/Users/Swapnil/Desktop/RestAPI/ngageFinal-debug-unaligned.apk, appPackage=yw.wemet.ngageapp, networkConnectionEnabled=true, noReset=true, warnings={}, databaseEnabled=false, fullReset=false, deviceName=80016234999737, platform=LINUX, desired={app=/Users/Swapnil/Desktop/RestAPI/ngageFinal-debug-unaligned.apk, appPackage=yw.wemet.ngageapp, noReset=true, appium-version=1.0, platformVersion=4.4, platformName=Android, fullReset=false, deviceName=ASUS_Z008D}, appium-version=1.0, platformVersion=4.4.2, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: f406dc56-5e86-43ed-a545-f22a6fcd04bf
+*** Element info: {Using=xpath, value=//android.widget.RelativeLayout[1]/android.widget.ImageView[1]} 
+2016-08-24 18:41:25,741 INFO  [OneToOneConversation] exception in klipy  testing 
+2016-08-24 18:41:27,820 INFO  [OneToOneConversation] quit application 
+2016-08-24 18:45:13,422 INFO  [OneToOneConversation] --click chat button--! 
+2016-08-24 18:45:14,365 INFO  [OneToOneConversation] oneToOneConversationDataList:1 
+2016-08-24 18:45:14,366 INFO  [OneToOneConversation] get data from excel sheet and verifay! 
+2016-08-24 18:45:14,370 INFO  [NgageUtili] one to locater load 
+2016-08-24 18:45:16,617 INFO  [NgageUtili] load locater of start new conversation! 
+2016-08-24 18:45:16,618 INFO  [NgageUtili] searchingName 8181515131 
+2016-08-24 18:45:29,503 INFO  [NgageUtili] complete send to number to search panel 
+2016-08-24 18:45:30,585 INFO  [NgageUtili] store list of user which is found from contact  list 
+2016-08-24 18:45:32,630 INFO  [NgageUtili] click log click buttion and log click pop up is displaying! 
+2016-08-24 18:45:33,336 INFO  [NgageUtili] click more buttion of log click pop up window! 
+2016-08-24 18:45:36,723 INFO  [NgageUtili] click view profile image buttion! 
+2016-08-24 18:45:36,739 INFO  [NgageUtili] scrool to Personal Details text manu 
+2016-08-24 18:45:38,924 INFO  [NgageUtili] actualNumber:918181515131 
+2016-08-24 18:45:42,100 INFO  [NgageUtili] click back buttion of profile image! 
+2016-08-24 18:45:45,558 INFO  [NgageUtili] click actual contact user! 
+2016-08-24 18:45:59,328 INFO  [NgageUtili] complete text message to text edit option! 
+2016-08-24 18:46:00,469 INFO  [NgageUtili] Complete to click sending buttion 
+2016-08-24 18:46:00,469 INFO  [OneToOneConversation] message sending complete 
+2016-08-24 18:46:17,310 INFO  [NgageUtili] click sticker buttion! 
+2016-08-24 18:46:21,125 INFO  [NgageUtili] wait sticker loading! 
+2016-08-24 18:46:22,826 INFO  [NgageUtili] footer sticker selection complete! 
+2016-08-24 18:46:25,396 INFO  [NgageUtili] allrady sticker download   complete! 
+2016-08-24 18:46:25,396 INFO  [NgageUtili] --wait sticker download ,wait some time after! 
+2016-08-24 18:46:28,659 INFO  [NgageUtili] click sticker from sticker gallery! 
+2016-08-24 18:46:30,129 INFO  [NgageUtili] click sending sticker buttion! 
+2016-08-24 18:46:30,129 INFO  [OneToOneConversation] //---------------------sending sticker to user--------------------- 
+2016-08-24 18:46:30,200 INFO  [NgageUtili] one to one locater loading 
+2016-08-24 18:46:34,119 INFO  [NgageUtili] Doodle buttion click! 
+2016-08-24 18:46:37,359 INFO  [NgageUtili] doodle Decorate is clicking! 
+2016-08-24 18:46:38,332 INFO  [NgageUtili] click doodle color decorate buttion! 
+2016-08-24 18:46:40,890 INFO  [NgageUtili] sending doodle image! 
+2016-08-24 18:46:40,956 INFO  [OneToOneConversation] //-----------------------sending doodle image-------------------- 
+2016-08-24 18:46:43,803 INFO  [NgageUtili] click AttachmentButtion buttion ! 
+2016-08-24 18:46:47,418 INFO  [NgageUtili] lifie image buttion complete to click 
+2016-08-24 18:46:51,556 INFO  [NgageUtili] click capture image buttion 
+2016-08-24 18:46:56,675 INFO  [NgageUtili] click send buttion of life! 
+2016-08-24 18:46:56,675 INFO  [OneToOneConversation] lifie module is testing complete! 
+2016-08-24 18:46:59,407 INFO  [NgageUtili] click AttachmentButtion buttion ! 
+2016-08-24 18:47:04,401 INFO  [NgageUtili] click klipy buttion complete! 
+2016-08-24 18:47:09,832 INFO  [NgageUtili] selct klipy from footer panel-- 
+2016-08-24 18:47:12,301 INFO  [NgageUtili] allrady sticker download   complete! 
+2016-08-24 18:47:14,574 INFO  [NgageUtili] click foter sticker buttion! 
+2016-08-24 18:47:17,515 INFO  [NgageUtili] click capture lifie image! 
+2016-08-24 18:47:57,899 INFO  [NgageUtili] click lifie page ok buttion! 
+2016-08-24 18:48:04,426 INFO  [NgageUtili] click ok buttion of lifie! 
+2016-08-24 18:48:07,198 INFO  [NgageUtili] click sending buttion of klipy 
+2016-08-24 18:48:09,382 INFO  [NgageUtili] click quality of high redio buttion! 
+2016-08-24 18:48:10,745 INFO  [NgageUtili] sending lifie complete! 
+2016-08-24 18:48:10,745 INFO  [OneToOneConversation] klipy  module is testing complete! 
+2016-08-24 18:48:33,560 INFO  [NgageUtili] click AttachmentButtion buttion ! 
+2016-08-24 18:48:38,291 INFO  [NgageUtili] click kollageButtion! 
+2016-08-24 18:48:39,832 INFO  [NgageUtili] click footer panel of kollage image! 
+2016-08-24 18:48:41,011 INFO  [NgageUtili] allrady sticker download   complete! 
+2016-08-24 18:48:42,038 INFO  [NgageUtili] select one of kollage from kollage gallery page!  
+2016-08-24 18:48:45,969 INFO  [NgageUtili] click send buttion of kollage! 
+2016-08-24 18:48:45,969 INFO  [OneToOneConversation] kollage   module is testing complete! 
+2016-08-24 18:48:48,497 INFO  [NgageUtili] click option attchemnet! 
+2016-08-24 18:48:51,706 INFO  [NgageUtili] click greeting buttion! 
+2016-08-24 18:48:53,337 INFO  [NgageUtili] click footer panel greeting and send greeting data. 
+2016-08-24 18:48:54,826 INFO  [NgageUtili] allrady sticker download   complete! 
+2016-08-24 18:48:55,753 INFO  [NgageUtili] select one of greeting from greeting gallery! 
+2016-08-24 18:49:00,906 INFO  [NgageUtili] click greeting sending buttion! 
+2016-08-24 18:49:00,906 INFO  [OneToOneConversation] greeting  module is testing complete! 
+2016-08-24 18:49:12,608 INFO  [NgageUtili] click option attchemnet! 
+2016-08-24 18:49:14,539 INFO  [NgageUtili] --click location buttion of application--! 
+2016-08-24 18:49:23,140 INFO  [OneToOneConversation] complte to test location! 
+2016-08-24 18:49:28,345 INFO  [NgageUtili] click option attchemnet! 
+2016-08-24 18:49:39,407 INFO  [NgageUtili] --click location buttion of application--! 
+2016-08-24 18:49:44,744 INFO  [NgageUtili] click Previous  location buttion! 
+2016-08-24 18:49:46,784 INFO  [NgageUtili] click other location adress! 
+2016-08-24 18:49:46,786 INFO  [OneToOneConversation] complte to test other location! 
+2016-08-24 18:49:50,293 INFO  [NgageUtili] click option attchemnet! 
+2016-08-24 18:49:52,987 INFO  [NgageUtili] video note buttion buttion clicked! 
+2016-08-24 18:49:55,751 INFO  [NgageUtili] click video recording buttion! 
+2016-08-24 18:50:04,352 INFO  [NgageUtili] click video recording buttion! 
+2016-08-24 18:50:06,488 INFO  [NgageUtili] Complete to send video recording ! 
+2016-08-24 18:50:06,489 INFO  [OneToOneConversation] complte to test video  note! 
+2016-08-24 18:50:20,828 INFO  [NgageUtili] click option attchemnet! 
+2016-08-24 18:50:32,099 INFO  [NgageUtili] click chat makeOverButtion 
+2016-08-24 18:56:11,114 INFO  [OneToOneConversation] --click chat button--! 
+2016-08-24 18:56:11,641 INFO  [OneToOneConversation] oneToOneConversationDataList:1 
+2016-08-24 18:56:11,641 INFO  [OneToOneConversation] get data from excel sheet and verifay! 
+2016-08-24 18:56:11,646 INFO  [NgageUtili] one to locater load 
+2016-08-24 18:56:12,760 INFO  [NgageUtili] load locater of start new conversation! 
+2016-08-24 18:56:12,760 INFO  [NgageUtili] searchingName 8181515131 
+2016-08-24 18:56:22,594 INFO  [NgageUtili] complete send to number to search panel 
+2016-08-24 18:56:24,659 INFO  [NgageUtili] store list of user which is found from contact  list 
+2016-08-24 18:56:26,303 INFO  [NgageUtili] click log click buttion and log click pop up is displaying! 
+2016-08-24 18:56:27,044 INFO  [NgageUtili] click more buttion of log click pop up window! 
+2016-08-24 18:56:30,709 INFO  [NgageUtili] click view profile image buttion! 
+2016-08-24 18:56:30,745 INFO  [NgageUtili] scrool to Personal Details text manu 
+2016-08-24 18:56:31,789 INFO  [NgageUtili] actualNumber:918181515131 
+2016-08-24 18:56:34,981 INFO  [NgageUtili] click back buttion of profile image! 
+2016-08-24 18:56:37,408 INFO  [NgageUtili] click actual contact user! 
+2016-08-24 18:56:42,330 INFO  [NgageUtili] click option attchemnet! 
+2016-08-24 18:56:44,854 INFO  [NgageUtili] video note buttion buttion clicked! 
+2016-08-24 18:56:46,733 INFO  [NgageUtili] click video recording buttion! 
+2016-08-24 18:56:55,004 INFO  [NgageUtili] click video recording buttion! 
+2016-08-24 18:56:56,948 INFO  [NgageUtili] Complete to send video recording ! 
+2016-08-24 18:56:56,949 INFO  [OneToOneConversation] complte to test video  note! 
+2016-08-24 18:57:10,109 INFO  [NgageUtili] click option attchemnet! 
+2016-08-24 18:57:20,705 INFO  [NgageUtili] click chat makeOverButtion 
+2016-08-24 18:57:22,217 INFO  [NgageUtili] click foter panel of chat theme 
+2016-08-24 18:57:24,628 INFO  [NgageUtili] allrady downlode theme complete! 
+2016-08-24 18:57:26,647 INFO  [NgageUtili] click select of theme from theme gallery! 
+2016-08-24 18:57:30,620 INFO  [NgageUtili] message:You have changed the chat theme 
+2016-08-24 18:57:30,620 INFO  [OneToOneConversation] complte to test chatMakeOver note! 
+2016-08-24 18:57:37,595 INFO  [NgageUtili] complete text message to text edit option! 
+2016-08-24 18:57:39,800 INFO  [NgageUtili] Complete to click sending buttion 
+2016-08-24 18:57:39,800 INFO  [OneToOneConversation] message sending complete 
+2016-08-24 18:57:57,668 INFO  [NgageUtili] click sticker buttion! 
+2016-08-24 18:58:00,178 INFO  [NgageUtili] wait sticker loading! 
+2016-08-24 18:58:01,417 INFO  [NgageUtili] footer sticker selection complete! 
+2016-08-24 18:58:04,009 INFO  [NgageUtili] allrady sticker download   complete! 
+2016-08-24 18:58:04,009 INFO  [NgageUtili] --wait sticker download ,wait some time after! 
+2016-08-24 18:58:07,284 INFO  [NgageUtili] click sticker from sticker gallery! 
+2016-08-24 18:58:08,414 INFO  [NgageUtili] click sending sticker buttion! 
+2016-08-24 18:58:08,415 INFO  [OneToOneConversation] //---------------------sending sticker to user--------------------- 
+2016-08-24 18:58:08,471 INFO  [NgageUtili] one to one locater loading 
+2016-08-24 18:58:12,315 INFO  [NgageUtili] Doodle buttion click! 
+2016-08-24 18:58:15,060 INFO  [NgageUtili] doodle Decorate is clicking! 
+2016-08-24 18:58:16,782 INFO  [NgageUtili] click doodle color decorate buttion! 
+2016-08-24 18:58:18,717 INFO  [NgageUtili] sending doodle image! 
+2016-08-24 18:58:18,728 INFO  [OneToOneConversation] //-----------------------sending doodle image-------------------- 
+2016-08-24 18:58:20,201 INFO  [NgageUtili] click AttachmentButtion buttion ! 
+2016-08-24 18:58:22,823 INFO  [NgageUtili] lifie image buttion complete to click 
+2016-08-24 18:58:27,064 INFO  [NgageUtili] click capture image buttion 
+2016-08-24 18:58:30,737 INFO  [NgageUtili] click send buttion of life! 
+2016-08-24 18:58:30,737 INFO  [OneToOneConversation] lifie module is testing complete! 
+2016-08-24 18:58:33,120 INFO  [NgageUtili] click AttachmentButtion buttion ! 
+2016-08-24 18:58:37,275 INFO  [NgageUtili] click klipy buttion complete! 
+2016-08-24 18:58:42,698 INFO  [NgageUtili] selct klipy from footer panel-- 
+2016-08-24 18:58:44,942 INFO  [NgageUtili] allrady sticker download   complete! 
+2016-08-24 18:58:46,712 INFO  [NgageUtili] click foter sticker buttion! 
+2016-08-24 18:58:49,746 INFO  [NgageUtili] click capture lifie image! 
+2016-08-24 18:59:01,701 INFO  [NgageUtili] click lifie page ok buttion! 
+2016-08-24 18:59:08,119 INFO  [NgageUtili] click ok buttion of lifie! 
+2016-08-24 18:59:10,678 INFO  [NgageUtili] click sending buttion of klipy 
+2016-08-24 18:59:13,012 INFO  [NgageUtili] click quality of high redio buttion! 
+2016-08-24 18:59:14,526 INFO  [NgageUtili] sending lifie complete! 
+2016-08-24 18:59:14,526 INFO  [OneToOneConversation] klipy  module is testing complete! 
+2016-08-24 18:59:32,104 INFO  [NgageUtili] click AttachmentButtion buttion ! 
+2016-08-24 18:59:36,149 INFO  [NgageUtili] click kollageButtion! 
+2016-08-24 18:59:37,156 INFO  [NgageUtili] click footer panel of kollage image! 
+2016-08-24 18:59:39,425 INFO  [NgageUtili] allrady sticker download   complete! 
+2016-08-24 18:59:40,423 INFO  [NgageUtili] select one of kollage from kollage gallery page!  
+2016-08-24 18:59:44,171 INFO  [NgageUtili] click send buttion of kollage! 
+2016-08-24 18:59:44,172 INFO  [OneToOneConversation] kollage   module is testing complete! 
+2016-08-24 18:59:46,539 INFO  [NgageUtili] click option attchemnet! 
+2016-08-24 18:59:51,171 INFO  [NgageUtili] click greeting buttion! 
+2016-08-24 18:59:52,889 INFO  [NgageUtili] click footer panel greeting and send greeting data. 
+2016-08-24 18:59:55,117 INFO  [NgageUtili] allrady sticker download   complete! 
+2016-08-24 18:59:56,145 INFO  [NgageUtili] select one of greeting from greeting gallery! 
+2016-08-24 19:00:00,051 INFO  [NgageUtili] click greeting sending buttion! 
+2016-08-24 19:00:00,051 INFO  [OneToOneConversation] greeting  module is testing complete! 
+2016-08-24 19:00:11,500 INFO  [NgageUtili] click option attchemnet! 
+2016-08-24 19:00:13,135 INFO  [NgageUtili] --click location buttion of application--! 
+2016-08-24 19:00:20,965 INFO  [OneToOneConversation] complte to test location! 
+2016-08-24 19:00:24,163 INFO  [NgageUtili] click option attchemnet! 
+2016-08-24 19:00:34,291 INFO  [NgageUtili] --click location buttion of application--! 
+2016-08-24 19:00:37,759 INFO  [NgageUtili] click Previous  location buttion! 
+2016-08-24 19:00:39,181 INFO  [NgageUtili] click other location adress! 
+2016-08-24 19:00:39,181 INFO  [OneToOneConversation] complte to test other location! 
+2016-08-24 19:00:41,553 INFO  [NgageUtili] click option attchemnet! 
+2016-08-24 19:00:44,141 INFO  [NgageUtili] video note buttion buttion clicked! 
+2016-08-24 19:00:45,946 INFO  [NgageUtili] click video recording buttion! 
+2016-08-24 19:00:54,205 INFO  [NgageUtili] click video recording buttion! 
+2016-08-24 19:00:56,250 INFO  [NgageUtili] Complete to send video recording ! 
+2016-08-24 19:00:56,284 INFO  [OneToOneConversation] complte to test video  note! 
+2016-08-24 19:01:11,506 INFO  [NgageUtili] click option attchemnet! 
+2016-08-24 19:01:24,728 INFO  [NgageUtili] click chat makeOverButtion 
+2016-08-24 19:02:25,398 WARN  [OneToOneConversation] org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 60.67 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'Tapanas-Mac-mini.local', ip: '172.16.2.14', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.5', java.version: '1.8.0_101'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{app=/Users/Swapnil/Desktop/RestAPI/ngageFinal-debug-unaligned.apk, appPackage=yw.wemet.ngageapp, networkConnectionEnabled=true, noReset=true, warnings={}, databaseEnabled=false, fullReset=false, deviceName=80016234999737, platform=LINUX, desired={app=/Users/Swapnil/Desktop/RestAPI/ngageFinal-debug-unaligned.apk, appPackage=yw.wemet.ngageapp, noReset=true, appium-version=1.0, platformVersion=4.4, platformName=Android, fullReset=false, deviceName=ASUS_Z008D}, appium-version=1.0, platformVersion=4.4.2, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: 61990dbc-a46a-4cd6-a7ce-bcf59e8f9267
+*** Element info: {Using=xpath, value=//android.widget.ImageView[2]} 
+2016-08-24 19:02:25,867 INFO  [OneToOneConversation] exception in chatMakeOver note  testing 
+2016-08-24 19:02:26,067 INFO  [RetryExec] I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://0.0.0.0:4723: The target server failed to respond 
+2016-08-24 19:02:26,067 INFO  [RetryExec] Retrying request to {}->http://0.0.0.0:4723 
+2016-08-24 19:02:26,069 INFO  [NgageUtili] exception in taking screen shot 
+2016-08-24 19:02:26,094 INFO  [OneToOneConversation] exception in one to conversation  
+2016-08-24 19:04:23,565 INFO  [OneToOneConversation] --click chat button--! 
+2016-08-24 19:04:23,972 INFO  [OneToOneConversation] oneToOneConversationDataList:1 
+2016-08-24 19:04:23,972 INFO  [OneToOneConversation] get data from excel sheet and verifay! 
+2016-08-24 19:04:23,976 INFO  [NgageUtili] one to locater load 
+2016-08-24 19:04:24,564 INFO  [NgageUtili] load locater of start new conversation! 
+2016-08-24 19:04:24,565 INFO  [NgageUtili] searchingName 8181515131 
+2016-08-24 19:04:35,887 INFO  [NgageUtili] complete send to number to search panel 
+2016-08-24 19:04:37,646 INFO  [NgageUtili] store list of user which is found from contact  list 
+2016-08-24 19:04:39,004 INFO  [NgageUtili] click log click buttion and log click pop up is displaying! 
+2016-08-24 19:04:39,950 INFO  [NgageUtili] click more buttion of log click pop up window! 
+2016-08-24 19:04:43,612 INFO  [NgageUtili] click view profile image buttion! 
+2016-08-24 19:04:43,657 INFO  [NgageUtili] scrool to Personal Details text manu 
+2016-08-24 19:04:44,682 INFO  [NgageUtili] actualNumber:918181515131 
+2016-08-24 19:04:47,885 INFO  [NgageUtili] click back buttion of profile image! 
+2016-08-24 19:04:51,385 INFO  [NgageUtili] click actual contact user! 
+2016-08-24 19:04:56,740 INFO  [NgageUtili] click option attchemnet! 
+2016-08-24 19:05:04,855 INFO  [NgageUtili] click chat makeOverButtion 
+2016-08-24 19:05:07,764 INFO  [NgageUtili] click foter panel of chat theme 
+2016-08-24 19:05:10,183 INFO  [NgageUtili] allrady downlode theme complete! 
+2016-08-24 19:05:12,340 INFO  [NgageUtili] click select of theme from theme gallery! 
+2016-08-24 19:05:16,945 INFO  [NgageUtili] message:Maharashtra 400047, India 
+2016-08-24 19:05:16,945 INFO  [OneToOneConversation] complte to test chatMakeOver note! 
+2016-08-24 19:05:26,029 INFO  [NgageUtili] complete text message to text edit option! 
+2016-08-24 19:05:28,171 INFO  [NgageUtili] Complete to click sending buttion 
+2016-08-24 19:05:28,171 INFO  [OneToOneConversation] message sending complete 
+2016-08-24 19:05:47,647 INFO  [NgageUtili] click sticker buttion! 
+2016-08-24 19:05:50,281 INFO  [NgageUtili] wait sticker loading! 
+2016-08-24 19:05:51,796 INFO  [NgageUtili] footer sticker selection complete! 
+2016-08-24 19:05:54,356 INFO  [NgageUtili] allrady sticker download   complete! 
+2016-08-24 19:05:54,356 INFO  [NgageUtili] --wait sticker download ,wait some time after! 
+2016-08-24 19:05:58,119 INFO  [NgageUtili] click sticker from sticker gallery! 
+2016-08-24 19:05:59,560 INFO  [NgageUtili] click sending sticker buttion! 
+2016-08-24 19:05:59,560 INFO  [OneToOneConversation] //---------------------sending sticker to user--------------------- 
+2016-08-24 19:05:59,622 INFO  [NgageUtili] one to one locater loading 
+2016-08-24 19:06:06,080 INFO  [NgageUtili] Doodle buttion click! 
+2016-08-24 19:06:06,861 INFO  [NgageUtili] doodle Decorate is clicking! 
+2016-08-24 19:06:08,056 INFO  [NgageUtili] click doodle color decorate buttion! 
+2016-08-24 19:06:10,382 INFO  [NgageUtili] sending doodle image! 
+2016-08-24 19:06:10,398 INFO  [OneToOneConversation] //-----------------------sending doodle image-------------------- 
+2016-08-24 19:06:15,752 INFO  [NgageUtili] click AttachmentButtion buttion ! 
+2016-08-24 19:06:18,400 INFO  [NgageUtili] lifie image buttion complete to click 
+2016-08-24 19:06:23,548 INFO  [NgageUtili] click capture image buttion 
+2016-08-24 19:06:28,080 INFO  [NgageUtili] click send buttion of life! 
+2016-08-24 19:06:28,080 INFO  [OneToOneConversation] lifie module is testing complete! 
+2016-08-24 19:06:33,558 INFO  [NgageUtili] click AttachmentButtion buttion ! 
+2016-08-24 19:06:38,041 INFO  [NgageUtili] click klipy buttion complete! 
+2016-08-24 19:06:44,599 INFO  [NgageUtili] selct klipy from footer panel-- 
+2016-08-24 19:06:44,960 INFO  [NgageUtili] allrady sticker download   complete! 
+2016-08-24 19:06:47,123 INFO  [NgageUtili] click foter sticker buttion! 
+2016-08-24 19:06:50,031 INFO  [NgageUtili] click capture lifie image! 
+2016-08-24 19:07:01,317 INFO  [NgageUtili] click lifie page ok buttion! 
+2016-08-24 19:07:07,901 INFO  [NgageUtili] click ok buttion of lifie! 
+2016-08-24 19:07:10,533 INFO  [NgageUtili] click sending buttion of klipy 
+2016-08-24 19:07:12,805 INFO  [NgageUtili] click quality of high redio buttion! 
+2016-08-24 19:07:14,168 INFO  [NgageUtili] sending lifie complete! 
+2016-08-24 19:07:14,168 INFO  [OneToOneConversation] klipy  module is testing complete! 
+2016-08-24 19:07:35,809 INFO  [NgageUtili] click AttachmentButtion buttion ! 
+2016-08-24 19:07:39,700 INFO  [NgageUtili] click kollageButtion! 
+2016-08-24 19:07:41,048 INFO  [NgageUtili] click footer panel of kollage image! 
+2016-08-24 19:07:43,126 INFO  [NgageUtili] allrady sticker download   complete! 
+2016-08-24 19:07:44,138 INFO  [NgageUtili] select one of kollage from kollage gallery page!  
+2016-08-24 19:07:48,095 INFO  [NgageUtili] click send buttion of kollage! 
+2016-08-24 19:07:48,095 INFO  [OneToOneConversation] kollage   module is testing complete! 
+2016-08-24 19:07:50,526 INFO  [NgageUtili] click option attchemnet! 
+2016-08-24 19:07:55,213 INFO  [NgageUtili] click greeting buttion! 
+2016-08-24 19:07:57,332 INFO  [NgageUtili] click footer panel greeting and send greeting data. 
+2016-08-24 19:07:59,637 INFO  [NgageUtili] allrady sticker download   complete! 
+2016-08-24 19:08:00,654 INFO  [NgageUtili] select one of greeting from greeting gallery! 
+2016-08-24 19:08:04,788 INFO  [NgageUtili] click greeting sending buttion! 
+2016-08-24 19:08:04,788 INFO  [OneToOneConversation] greeting  module is testing complete! 
+2016-08-24 19:08:16,856 INFO  [NgageUtili] click option attchemnet! 
+2016-08-24 19:08:18,304 INFO  [NgageUtili] --click location buttion of application--! 
+2016-08-24 19:08:27,525 INFO  [OneToOneConversation] complte to test location! 
+2016-08-24 19:08:31,308 INFO  [NgageUtili] click option attchemnet! 
+2016-08-24 19:08:40,397 INFO  [NgageUtili] --click location buttion of application--! 
+2016-08-24 19:08:44,897 INFO  [NgageUtili] click Previous  location buttion! 
+2016-08-24 19:08:46,322 INFO  [NgageUtili] click other location adress! 
+2016-08-24 19:08:46,323 INFO  [OneToOneConversation] complte to test other location! 
+2016-08-24 19:23:40,873 INFO  [NgageUtili] click option attchemnet! 
+2016-08-24 19:23:48,257 INFO  [NgageUtili] video note buttion buttion clicked! 
+2016-08-24 19:23:51,156 INFO  [NgageUtili] click video recording buttion! 
+2016-08-24 19:24:02,833 INFO  [NgageUtili] click video recording buttion! 
+2016-08-24 19:24:05,189 INFO  [NgageUtili] Complete to send video recording ! 
+2016-08-24 19:24:54,614 INFO  [OneToOneConversation] complte to test video  note! 
+2016-08-24 19:25:43,992 INFO  [NgageUtili] click option attchemnet! 
+2016-08-24 19:25:52,694 INFO  [NgageUtili] click chat makeOverButtion 
+2016-08-24 19:25:56,742 INFO  [NgageUtili] click foter panel of chat theme 
+2016-08-24 19:26:02,766 INFO  [NgageUtili] allrady downlode theme complete! 
+2016-08-24 19:26:07,318 INFO  [NgageUtili] click select of theme from theme gallery! 
+2016-08-24 19:26:10,692 INFO  [NgageUtili] message:Maharashtra 400047, India 
+2016-08-24 19:26:13,302 INFO  [OneToOneConversation] complte to test chatMakeOver note! 
+2016-08-24 19:26:21,601 INFO  [NgageUtili] click option attchemnet! 
+2016-08-24 19:26:30,427 INFO  [NgageUtili] click sharing contact buttion! 
+2016-08-24 19:26:30,574 WARN  [OneToOneConversation] org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 147 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'Tapanas-Mac-mini.local', ip: '172.16.2.14', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.5', java.version: '1.8.0_101'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{app=/Users/Swapnil/Desktop/RestAPI/ngageFinal-debug-unaligned.apk, appPackage=yw.wemet.ngageapp, networkConnectionEnabled=true, noReset=true, warnings={}, databaseEnabled=false, fullReset=false, deviceName=80016234999737, platform=LINUX, desired={app=/Users/Swapnil/Desktop/RestAPI/ngageFinal-debug-unaligned.apk, appPackage=yw.wemet.ngageapp, noReset=true, appium-version=1.0, platformVersion=4.4, platformName=Android, fullReset=false, deviceName=ASUS_Z008D}, appium-version=1.0, platformVersion=4.4.2, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: 195eaad4-f05d-4e54-834f-fe95b253bf91
+*** Element info: {Using=xpath, value=//android.view.View[@index='4']} 
+2016-08-24 19:26:31,011 INFO  [OneToOneConversation] exception in share contact  note  testing 
+2016-08-24 19:26:32,959 INFO  [OneToOneConversation] quit application 
+2016-08-24 19:28:45,210 INFO  [OneToOneConversation] --click chat button--! 
+2016-08-24 19:28:45,620 INFO  [OneToOneConversation] oneToOneConversationDataList:1 
+2016-08-24 19:28:45,620 INFO  [OneToOneConversation] get data from excel sheet and verifay! 
+2016-08-24 19:28:45,624 INFO  [NgageUtili] one to locater load 
+2016-08-24 19:28:48,200 INFO  [NgageUtili] load locater of start new conversation! 
+2016-08-24 19:28:48,200 INFO  [NgageUtili] searchingName 8181515131 
+2016-08-24 19:28:55,491 INFO  [NgageUtili] complete send to number to search panel 
+2016-08-24 19:28:57,817 INFO  [NgageUtili] store list of user which is found from contact  list 
+2016-08-24 19:28:59,364 INFO  [NgageUtili] click log click buttion and log click pop up is displaying! 
+2016-08-24 19:29:00,194 INFO  [NgageUtili] click more buttion of log click pop up window! 
+2016-08-24 19:29:03,516 INFO  [NgageUtili] click view profile image buttion! 
+2016-08-24 19:29:03,535 INFO  [NgageUtili] scrool to Personal Details text manu 
+2016-08-24 19:29:04,677 INFO  [NgageUtili] actualNumber:918181515131 
+2016-08-24 19:29:07,887 INFO  [NgageUtili] click back buttion of profile image! 
+2016-08-24 19:29:10,613 INFO  [NgageUtili] click actual contact user! 
+2016-08-24 19:29:16,975 INFO  [NgageUtili] click option attchemnet! 
+2016-08-24 19:29:24,666 INFO  [NgageUtili] click chat makeOverButtion 
+2016-08-24 19:29:26,092 INFO  [NgageUtili] click foter panel of chat theme 
+2016-08-24 19:29:28,359 INFO  [NgageUtili] allrady downlode theme complete! 
+2016-08-24 19:29:30,614 INFO  [NgageUtili] click select of theme from theme gallery! 
+2016-08-24 19:29:33,421 INFO  [NgageUtili] message:Maharashtra 400047, India 
+2016-08-24 19:29:33,421 INFO  [OneToOneConversation] complte to test chatMakeOver note! 
+2016-08-24 19:29:40,581 INFO  [NgageUtili] complete text message to text edit option! 
+2016-08-24 19:29:41,861 INFO  [NgageUtili] Complete to click sending buttion 
+2016-08-24 19:29:41,861 INFO  [OneToOneConversation] message sending complete 
+2016-08-24 19:30:03,879 INFO  [NgageUtili] click sticker buttion! 
+2016-08-24 19:30:06,683 INFO  [NgageUtili] wait sticker loading! 
+2016-08-24 19:30:07,922 INFO  [NgageUtili] footer sticker selection complete! 
+2016-08-24 19:30:10,462 INFO  [NgageUtili] allrady sticker download   complete! 
+2016-08-24 19:30:10,462 INFO  [NgageUtili] --wait sticker download ,wait some time after! 
+2016-08-24 19:30:13,725 INFO  [NgageUtili] click sticker from sticker gallery! 
+2016-08-24 19:30:15,045 INFO  [NgageUtili] click sending sticker buttion! 
+2016-08-24 19:30:15,062 INFO  [OneToOneConversation] //---------------------sending sticker to user--------------------- 
+2016-08-24 19:30:15,100 INFO  [NgageUtili] one to one locater loading 
+2016-08-24 19:30:18,962 INFO  [NgageUtili] Doodle buttion click! 
+2016-08-24 19:30:20,357 INFO  [NgageUtili] doodle Decorate is clicking! 
+2016-08-24 19:30:22,045 INFO  [NgageUtili] click doodle color decorate buttion! 
+2016-08-24 19:30:24,054 INFO  [NgageUtili] sending doodle image! 
+2016-08-24 19:30:24,066 INFO  [OneToOneConversation] //-----------------------sending doodle image-------------------- 
+2016-08-24 19:30:28,249 INFO  [NgageUtili] click AttachmentButtion buttion ! 
+2016-08-24 19:30:30,776 INFO  [NgageUtili] lifie image buttion complete to click 
+2016-08-24 19:30:35,016 INFO  [NgageUtili] click capture image buttion 
+2016-08-24 19:30:39,421 INFO  [NgageUtili] click send buttion of life! 
+2016-08-24 19:30:39,464 INFO  [OneToOneConversation] lifie module is testing complete! 
+2016-08-24 19:30:45,245 INFO  [NgageUtili] click AttachmentButtion buttion ! 
+2016-08-24 19:30:49,842 INFO  [NgageUtili] click klipy buttion complete! 
+2016-08-24 19:30:55,357 INFO  [NgageUtili] selct klipy from footer panel-- 
+2016-08-24 19:30:57,819 INFO  [NgageUtili] allrady sticker download   complete! 
+2016-08-24 19:30:59,751 INFO  [NgageUtili] click foter sticker buttion! 
+2016-08-24 19:31:02,591 INFO  [NgageUtili] click capture lifie image! 
+2016-08-24 19:31:14,372 INFO  [NgageUtili] click lifie page ok buttion! 
+2016-08-24 19:31:19,974 INFO  [NgageUtili] click ok buttion of lifie! 
+2016-08-24 19:31:22,588 INFO  [NgageUtili] click sending buttion of klipy 
+2016-08-24 19:31:24,845 INFO  [NgageUtili] click quality of high redio buttion! 
+2016-08-24 19:31:26,209 INFO  [NgageUtili] sending lifie complete! 
+2016-08-24 19:31:26,209 INFO  [OneToOneConversation] klipy  module is testing complete! 
+2016-08-24 19:31:45,986 INFO  [NgageUtili] click AttachmentButtion buttion ! 
+2016-08-24 19:31:49,831 INFO  [NgageUtili] click kollageButtion! 
+2016-08-24 19:31:51,031 INFO  [NgageUtili] click footer panel of kollage image! 
+2016-08-24 19:31:52,255 INFO  [NgageUtili] allrady sticker download   complete! 
+2016-08-24 19:31:53,255 INFO  [NgageUtili] select one of kollage from kollage gallery page!  
+2016-08-24 19:31:57,270 INFO  [NgageUtili] click send buttion of kollage! 
+2016-08-24 19:31:57,270 INFO  [OneToOneConversation] kollage   module is testing complete! 
+2016-08-24 19:32:01,975 INFO  [NgageUtili] click option attchemnet! 
+2016-08-24 19:32:05,167 INFO  [NgageUtili] click greeting buttion! 
+2016-08-24 19:32:06,767 INFO  [NgageUtili] click footer panel greeting and send greeting data. 
+2016-08-24 19:32:09,156 INFO  [NgageUtili] allrady sticker download   complete! 
+2016-08-24 19:32:10,063 INFO  [NgageUtili] select one of greeting from greeting gallery! 
+2016-08-24 19:32:13,864 INFO  [NgageUtili] click greeting sending buttion! 
+2016-08-24 19:32:13,864 INFO  [OneToOneConversation] greeting  module is testing complete! 
+2016-08-24 19:32:23,795 INFO  [NgageUtili] click option attchemnet! 
+2016-08-24 19:32:25,312 INFO  [NgageUtili] --click location buttion of application--! 
+2016-08-24 19:32:39,616 INFO  [OneToOneConversation] complte to test location! 
+2016-08-24 19:32:43,674 INFO  [NgageUtili] click option attchemnet! 
+2016-08-24 19:32:53,759 INFO  [NgageUtili] --click location buttion of application--! 
+2016-08-24 19:32:58,150 INFO  [NgageUtili] click Previous  location buttion! 
+2016-08-24 19:32:59,571 INFO  [NgageUtili] click other location adress! 
+2016-08-24 19:32:59,571 INFO  [OneToOneConversation] complte to test other location! 
+2016-08-24 19:33:16,046 INFO  [NgageUtili] click option attchemnet! 
+2016-08-24 19:33:21,078 INFO  [NgageUtili] video note buttion buttion clicked! 
+2016-08-24 19:33:23,278 INFO  [NgageUtili] click video recording buttion! 
+2016-08-24 19:33:33,582 INFO  [NgageUtili] click video recording buttion! 
+2016-08-24 19:33:36,495 INFO  [NgageUtili] Complete to send video recording ! 
+2016-08-24 19:33:39,703 INFO  [OneToOneConversation] complte to test video  note! 
+2016-08-24 19:33:54,205 INFO  [NgageUtili] click option attchemnet! 
+2016-08-24 19:34:05,282 INFO  [NgageUtili] click chat makeOverButtion 
+2016-08-24 19:36:30,425 INFO  [OneToOneConversation] --click chat button--! 
+2016-08-24 19:36:30,706 INFO  [OneToOneConversation] oneToOneConversationDataList:1 
+2016-08-24 19:36:30,706 INFO  [OneToOneConversation] get data from excel sheet and verifay! 
+2016-08-24 19:36:30,709 INFO  [NgageUtili] one to locater load 
+2016-08-24 19:36:31,787 INFO  [NgageUtili] load locater of start new conversation! 
+2016-08-24 19:36:31,788 INFO  [NgageUtili] searchingName 8181515131 
+2016-08-24 19:36:41,625 INFO  [NgageUtili] complete send to number to search panel 
+2016-08-24 19:36:43,713 INFO  [NgageUtili] store list of user which is found from contact  list 
+2016-08-24 19:36:45,342 INFO  [NgageUtili] click log click buttion and log click pop up is displaying! 
+2016-08-24 19:36:46,245 INFO  [NgageUtili] click more buttion of log click pop up window! 
+2016-08-24 19:36:48,523 INFO  [NgageUtili] click view profile image buttion! 
+2016-08-24 19:36:48,564 INFO  [NgageUtili] scrool to Personal Details text manu 
+2016-08-24 19:36:50,725 INFO  [NgageUtili] actualNumber:918181515131 
+2016-08-24 19:36:53,901 INFO  [NgageUtili] click back buttion of profile image! 
+2016-08-24 19:36:57,399 INFO  [NgageUtili] click actual contact user! 
+2016-08-24 19:37:02,067 INFO  [NgageUtili] click option attchemnet! 
+2016-08-24 19:37:09,527 INFO  [NgageUtili] click chat makeOverButtion 
+2016-08-24 19:37:10,895 INFO  [NgageUtili] click foter panel of chat theme 
+2016-08-24 19:37:13,706 INFO  [NgageUtili] allrady downlode theme complete! 
+2016-08-24 19:37:17,104 INFO  [NgageUtili] click select of theme from theme gallery! 
+2016-08-24 19:37:17,284 WARN  [OneToOneConversation] org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 179 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'Tapanas-Mac-mini.local', ip: '172.16.2.14', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.5', java.version: '1.8.0_101'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{app=/Users/Swapnil/Desktop/RestAPI/ngageFinal-debug-unaligned.apk, appPackage=yw.wemet.ngageapp, networkConnectionEnabled=true, noReset=true, warnings={}, databaseEnabled=false, fullReset=false, deviceName=80016234999737, platform=LINUX, desired={app=/Users/Swapnil/Desktop/RestAPI/ngageFinal-debug-unaligned.apk, appPackage=yw.wemet.ngageapp, noReset=true, appium-version=1.0, platformVersion=4.4, platformName=Android, fullReset=false, deviceName=ASUS_Z008D}, appium-version=1.0, platformVersion=4.4.2, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: 46a2952a-ea0c-4163-a67c-5136c5ed47c5
+*** Element info: {Using=id, value=yw.wemet.ngageapp:id/tvMessage} 
+2016-08-24 19:37:17,323 INFO  [OneToOneConversation] exception in chatMakeOver note  testing 
+2016-08-24 19:37:19,286 INFO  [OneToOneConversation] quit application 
+2016-08-24 19:39:10,135 INFO  [OneToOneConversation] --click chat button--! 
+2016-08-24 19:39:10,438 INFO  [OneToOneConversation] oneToOneConversationDataList:1 
+2016-08-24 19:39:10,438 INFO  [OneToOneConversation] get data from excel sheet and verifay! 
+2016-08-24 19:39:10,441 INFO  [NgageUtili] one to locater load 
+2016-08-24 19:39:11,583 INFO  [NgageUtili] load locater of start new conversation! 
+2016-08-24 19:39:11,584 INFO  [NgageUtili] searchingName 8181515131 
+2016-08-24 19:39:21,419 INFO  [NgageUtili] complete send to number to search panel 
+2016-08-24 19:39:23,532 INFO  [NgageUtili] store list of user which is found from contact  list 
+2016-08-24 19:39:25,232 INFO  [NgageUtili] click log click buttion and log click pop up is displaying! 
+2016-08-24 19:39:26,026 INFO  [NgageUtili] click more buttion of log click pop up window! 
+2016-08-24 19:39:28,332 INFO  [NgageUtili] click view profile image buttion! 
+2016-08-24 19:39:28,352 INFO  [NgageUtili] scrool to Personal Details text manu 
+2016-08-24 19:39:30,519 INFO  [NgageUtili] actualNumber:918181515131 
+2016-08-24 19:39:33,697 INFO  [NgageUtili] click back buttion of profile image! 
+2016-08-24 19:39:36,948 INFO  [NgageUtili] click actual contact user! 
+2016-08-24 19:39:41,657 INFO  [NgageUtili] click option attchemnet! 
+2016-08-24 19:39:49,721 INFO  [NgageUtili] click chat makeOverButtion 
+2016-08-24 19:39:51,288 INFO  [NgageUtili] click foter panel of chat theme 
+2016-08-24 19:39:53,730 INFO  [NgageUtili] allrady downlode theme complete! 
+2016-08-24 19:39:56,164 INFO  [NgageUtili] click select of theme from theme gallery! 
+2016-08-24 19:39:59,697 INFO  [NgageUtili] message:Maharashtra 400047, India 
+2016-08-24 19:39:59,697 INFO  [OneToOneConversation] complte to test chatMakeOver note! 
+2016-08-24 19:40:06,738 INFO  [NgageUtili] complete text message to text edit option! 
+2016-08-24 19:40:07,933 INFO  [NgageUtili] Complete to click sending buttion 
+2016-08-24 19:40:07,933 INFO  [OneToOneConversation] message sending complete 
+2016-08-24 19:40:26,033 INFO  [NgageUtili] click sticker buttion! 
+2016-08-24 19:40:28,611 INFO  [NgageUtili] wait sticker loading! 
+2016-08-24 19:40:29,887 INFO  [NgageUtili] footer sticker selection complete! 
+2016-08-24 19:40:32,569 INFO  [NgageUtili] allrady sticker download   complete! 
+2016-08-24 19:40:32,569 INFO  [NgageUtili] --wait sticker download ,wait some time after! 
+2016-08-24 19:40:35,854 INFO  [NgageUtili] click sticker from sticker gallery! 
+2016-08-24 19:40:37,046 INFO  [NgageUtili] click sending sticker buttion! 
+2016-08-24 19:40:37,046 INFO  [OneToOneConversation] //---------------------sending sticker to user--------------------- 
+2016-08-24 19:40:37,114 INFO  [NgageUtili] one to one locater loading 
+2016-08-24 19:40:39,786 INFO  [NgageUtili] Doodle buttion click! 
+2016-08-24 19:40:42,531 INFO  [NgageUtili] doodle Decorate is clicking! 
+2016-08-24 19:40:44,202 INFO  [NgageUtili] click doodle color decorate buttion! 
+2016-08-24 19:40:46,213 INFO  [NgageUtili] sending doodle image! 
+2016-08-24 19:40:46,259 INFO  [OneToOneConversation] //-----------------------sending doodle image-------------------- 
+2016-08-24 19:40:50,865 INFO  [NgageUtili] click AttachmentButtion buttion ! 
+2016-08-24 19:40:53,924 INFO  [NgageUtili] lifie image buttion complete to click 
+2016-08-24 19:40:58,154 INFO  [NgageUtili] click capture image buttion 
+2016-08-24 19:41:01,334 INFO  [NgageUtili] click send buttion of life! 
+2016-08-24 19:41:01,334 INFO  [OneToOneConversation] lifie module is testing complete! 
+2016-08-24 19:41:06,577 INFO  [NgageUtili] click AttachmentButtion buttion ! 
+2016-08-24 19:41:10,890 INFO  [NgageUtili] click klipy buttion complete! 
+2016-08-24 19:41:17,822 INFO  [NgageUtili] selct klipy from footer panel-- 
+2016-08-24 19:41:19,318 INFO  [NgageUtili] allrady sticker download   complete! 
+2016-08-24 19:41:21,205 INFO  [NgageUtili] click foter sticker buttion! 
+2016-08-24 19:41:24,073 INFO  [NgageUtili] click capture lifie image! 
+2016-08-24 19:41:35,479 INFO  [NgageUtili] click lifie page ok buttion! 
+2016-08-24 19:41:41,546 INFO  [NgageUtili] click ok buttion of lifie! 
+2016-08-24 19:41:44,226 INFO  [NgageUtili] click sending buttion of klipy 
+2016-08-24 19:41:46,425 INFO  [NgageUtili] click quality of high redio buttion! 
+2016-08-24 19:41:47,799 INFO  [NgageUtili] sending lifie complete! 
+2016-08-24 19:41:47,799 INFO  [OneToOneConversation] klipy  module is testing complete! 
+2016-08-24 19:42:08,044 INFO  [NgageUtili] click AttachmentButtion buttion ! 
+2016-08-24 19:42:13,353 INFO  [NgageUtili] click kollageButtion! 
+2016-08-24 19:42:14,655 INFO  [NgageUtili] click footer panel of kollage image! 
+2016-08-24 19:42:16,845 INFO  [NgageUtili] allrady sticker download   complete! 
+2016-08-24 19:42:17,936 INFO  [NgageUtili] select one of kollage from kollage gallery page!  
+2016-08-24 19:42:22,568 INFO  [NgageUtili] click send buttion of kollage! 
+2016-08-24 19:42:22,568 INFO  [OneToOneConversation] kollage   module is testing complete! 
+2016-08-24 19:42:23,997 INFO  [NgageUtili] click option attchemnet! 
+2016-08-24 19:42:26,830 INFO  [NgageUtili] click greeting buttion! 
+2016-08-24 19:42:28,460 INFO  [NgageUtili] click footer panel greeting and send greeting data. 
+2016-08-24 19:42:30,718 INFO  [NgageUtili] allrady sticker download   complete! 
+2016-08-24 19:42:31,634 INFO  [NgageUtili] select one of greeting from greeting gallery! 
+2016-08-24 19:42:35,427 INFO  [NgageUtili] click greeting sending buttion! 
+2016-08-24 19:42:35,427 INFO  [OneToOneConversation] greeting  module is testing complete! 
+2016-08-24 19:42:47,344 INFO  [NgageUtili] click option attchemnet! 
+2016-08-24 19:42:48,945 INFO  [NgageUtili] --click location buttion of application--! 
+2016-08-24 19:42:56,755 INFO  [OneToOneConversation] complte to test location! 
+2016-08-24 19:43:00,042 INFO  [NgageUtili] click option attchemnet! 
+2016-08-24 19:43:10,579 INFO  [NgageUtili] --click location buttion of application--! 
+2016-08-24 19:43:14,379 INFO  [NgageUtili] click Previous  location buttion! 
+2016-08-24 19:43:15,827 INFO  [NgageUtili] click other location adress! 
+2016-08-24 19:43:15,827 INFO  [OneToOneConversation] complte to test other location! 
+2016-08-24 19:43:21,378 INFO  [NgageUtili] click option attchemnet! 
+2016-08-24 19:43:23,971 INFO  [NgageUtili] video note buttion buttion clicked! 
+2016-08-24 19:43:26,739 INFO  [NgageUtili] click video recording buttion! 
+2016-08-24 19:43:35,884 INFO  [NgageUtili] click video recording buttion! 
+2016-08-24 19:44:36,202 WARN  [OneToOneConversation] org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 60.32 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'Tapanas-Mac-mini.local', ip: '172.16.2.14', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.5', java.version: '1.8.0_101'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{app=/Users/Swapnil/Desktop/RestAPI/ngageFinal-debug-unaligned.apk, appPackage=yw.wemet.ngageapp, networkConnectionEnabled=true, noReset=true, warnings={}, databaseEnabled=false, fullReset=false, deviceName=80016234999737, platform=LINUX, desired={app=/Users/Swapnil/Desktop/RestAPI/ngageFinal-debug-unaligned.apk, appPackage=yw.wemet.ngageapp, noReset=true, appium-version=1.0, platformVersion=4.4, platformName=Android, fullReset=false, deviceName=ASUS_Z008D}, appium-version=1.0, platformVersion=4.4.2, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: 279f9c0b-3016-45d6-a711-ea343058367c
+*** Element info: {Using=id, value=yw.wemet.ngageapp:id/ok_btn} 
+2016-08-24 19:44:36,873 INFO  [OneToOneConversation] exception in video note  testing 
+2016-08-24 19:44:39,010 INFO  [OneToOneConversation] quit application 
+2016-08-24 19:44:55,452 INFO  [OneToOneConversation] open home page! 
+2016-08-24 19:44:55,464 INFO  [NgageUtili] one to locater load 
+2016-08-24 19:45:03,031 INFO  [NgageUtili] load locater of start new conversation! 
+2016-08-24 19:45:03,031 INFO  [NgageUtili] searchingName 8181515131 
+2016-08-24 19:45:13,869 INFO  [NgageUtili] complete send to number to search panel 
+2016-08-24 19:45:15,604 INFO  [NgageUtili] store list of user which is found from contact  list 
+2016-08-24 19:45:16,302 INFO  [NgageUtili] click log click buttion and log click pop up is displaying! 
+2016-08-24 19:45:19,236 INFO  [NgageUtili] click more buttion of log click pop up window! 
+2016-08-24 19:45:22,545 INFO  [NgageUtili] click view profile image buttion! 
+2016-08-24 19:45:22,545 INFO  [NgageUtili] scrool to Personal Details text manu 
+2016-08-24 19:45:24,746 INFO  [NgageUtili] actualNumber:918181515131 
+2016-08-24 19:45:27,910 INFO  [NgageUtili] click back buttion of profile image! 
+2016-08-24 19:45:30,592 INFO  [NgageUtili] click actual contact user! 
+2016-08-24 19:45:35,553 INFO  [NgageUtili] click option attchemnet! 
+2016-08-24 19:45:43,508 INFO  [NgageUtili] click chat makeOverButtion 
+2016-08-24 19:45:46,147 INFO  [NgageUtili] click foter panel of chat theme 
+2016-08-24 19:45:48,492 INFO  [NgageUtili] allrady downlode theme complete! 
+2016-08-24 19:45:50,641 INFO  [NgageUtili] click select of theme from theme gallery! 
+2016-08-24 19:45:54,673 INFO  [NgageUtili] message:Andheri East, Mumbai, Maharashtra 400069, India 
+2016-08-24 19:45:54,673 INFO  [OneToOneConversation] complte to test chatMakeOver note! 
+2016-08-24 19:45:55,617 INFO  [NgageUtili] click option attchemnet! 
+2016-08-24 19:46:02,609 INFO  [NgageUtili] click sharing contact buttion! 
+2016-08-24 19:46:05,686 INFO  [NgageUtili] select one of conact from conact list! 
+2016-08-24 19:46:08,863 INFO  [NgageUtili] click send buttion of sharing contact! 
+2016-08-24 19:46:08,863 INFO  [OneToOneConversation] complte to test share contact ! 
+2016-08-24 19:46:14,429 INFO  [NgageUtili] click attchment buttion! 
+2016-08-24 19:46:23,571 INFO  [NgageUtili] click camera buttion of n-gage---! 
+2016-08-24 19:46:28,732 INFO  [NgageUtili] take image useing capture image buttion! 
+2016-08-24 19:46:34,551 INFO  [NgageUtili] click sending buttion of capture image! 
+2016-08-24 19:46:34,581 INFO  [OneToOneConversation] complte to test capture image module ! 
+2016-08-24 19:46:40,331 INFO  [NgageUtili] click attchment buttion! 
+2016-08-24 19:46:53,016 INFO  [NgageUtili] click sending buttion of template! 
+2016-08-24 19:46:53,017 INFO  [OneToOneConversation] complte to test sending text tamplet module ! 
+2016-08-24 19:46:55,721 INFO  [NgageUtili] click attchment buttion! 
+2016-08-24 19:47:04,871 INFO  [NgageUtili] click faceDetector button! 
+2016-08-24 19:47:09,831 INFO  [NgageUtili] click capture image! 
+2016-08-24 19:47:13,467 INFO  [NgageUtili] click sending buttion of template! 
+2016-08-24 19:47:13,467 INFO  [OneToOneConversation] complte to test face detector module ! 
